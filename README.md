@@ -1,16 +1,27 @@
 <div align="center">
 
-# 👋 Hello, I'm AmirZero!
+# 👋 Hi there, I'm Amir
 
-### 🚀 Creative Designer & Developer
+
+<div align="left">
+
+### 🚀 About me
 
 <p>
-  <img src="https://img.shields.io/badge/Age-17-blue?style=for-the-badge&logo=appveyor" />
+  • 17 years old ⚡<br>
+  • Based in Tehran, Iran<br>
+  • Passionate about Gaming & Programming 🎮<br>
+  • Owner of the "Dark Gaming" Team 🌑
+</p>
+
+
+<p>
   <img src="https://img.shields.io/badge/Status-Available-green?style=for-the-badge" />
 </p>
 
 ---
-
+<div align="center">
+  
 ### 🛠 Tech Stack
 
 <div>
@@ -21,18 +32,36 @@
 </div>
 
 ---
+<div align="left">
+  
+### 🚀 Projects
+
+<div align="left" style="display: inline-block; text-align: left;">
+
+• 🌐 **Streaming Web Platform Development**<br>
+• 🤖 **Q-Bot: TeamSpeak Management System**<br>
+• 🖥️ **Q-Manager: FiveM Web & Software Server Management**<br>
+• 🎮 **Lead Developer: Dark Gaming Roleplay (FiveM)**<br>
+• ☢️ **Cracked Rust Server Development**<br>
+• 🧩 **Custom FiveM Server Plugins**<br>
+• 🎨 **3D Modeling & Design (MTA & Unity)**<br>
+• 💻 **Web Design & Development**
+
+</div>
+
+---
 
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -40,8 +69,6 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="AmirZero Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="AmirZero Stats" />
 
 </div>
